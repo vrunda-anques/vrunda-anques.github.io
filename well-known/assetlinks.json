@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.bizzbrains.junior",
       "sha256_cert_fingerprints": [
-        "5A:87:5A:60:B3:48:6D:7B:A6:73:EE:67:E9:86:79:1A:7A:D6:7E:A3:BC:AC:45:89:B9:7F:D0:89:1A:A0:30:BB"
+        "5A:87:5A:60:B3:48:6D:7B:A6:73:EE:67:E9:86:79:1A:7A:D6:7E:A3:BC:AC:45:89:B9:7F:D0:89:1A:A0:30:BB",
+        "67:AC:75:2F:43:74:F1:D5:1F:D2:7B:84:7D:B5:90:4D:D5:3B:A5:45:BD:6A:E0:58:17:7B:5A:2C:0E:36:B1:ED"
       ]
     }
   }
